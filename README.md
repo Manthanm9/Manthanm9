@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D22AQGjblgVk_NXzQ/feedshare-shrink_2048_1536/0/1677519375176?e=1680739200&v=beta&t=BVzgFIXw77-BUu4Ybn1Qc1oBeNGlNRtNDizpWkfhvMk)](https://media.licdn.com/)
+<!--[![MasterHead](https://media.licdn.com/dms/image/C4D22AQGjblgVk_NXzQ/feedshare-shrink_2048_1536/0/1677519375176?e=1680739200&v=beta&t=BVzgFIXw77-BUu4Ybn1Qc1oBeNGlNRtNDizpWkfhvMk)](https://media.licdn.com/)-->
 
 <h1 align="center">Hi 👋, I'm Manthan Mehar</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
