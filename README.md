@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Manthan Mehar</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
-- 🔭 I’m currently working on tools like **Python,R,Power BI,Tableau,Metabase etc.**
+- 🔭 I’m currently works with tools like **Python,R,Power BI,Tableau,Metabase etc.**
 
 - 🌱 I’m currently learning **Big Data Analytics, Machine Learning, Cloud Computing**
 
