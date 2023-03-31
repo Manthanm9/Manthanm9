@@ -1,3 +1,4 @@
+[![MasterHead](https://www.google.com/search?q=data+analyst+cover+photo+for+linkedin&client=ms-android-oppo-rvo3&prmd=ibnv&sxsrf=APwXEddCa4tpVxNIwqmcrdb8dM_81Bp8IA:1680228109774&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiGo_-8iYX-AhWzTmwGHSHADiEQ_AUoAXoECAIQAQ&biw=360&bih=660&dpr=3#imgrc=ZAbYZ7ACai9nTM&imgdii=yYd20GTvenegzM)](https://manthanmehar.io)
 
 <h1 align="center">Hi 👋, I'm Manthan Mehar</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
